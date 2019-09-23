@@ -1,0 +1,22 @@
+Hi everyone, Welcome to my fitst web page to introduce HTML, CSS and Javascript.
+                I'm studying web develop through 'Coding Everybody'('생활코딩' in korean).
+                It's so helpful for beginners like me, and i recommend this course to everyone studying web first time
+                in your life.
+            </p>
+            <iframe width="500" height="315" src="https://www.youtube.com/embed/tZooW6PritE" 
+            frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; 
+            picture-in-picture" allowfullscreen></iframe>
+            <p>
+                So, let's start to see what is "HTML, CSS and JavaScript" through numbered links on top.
+            </p><p style="font-size: 13px">
+                <em>Oh! If you want to know what is web first, scroll down please!</em>
+            </p>
+            <img width="500" height="315px" src="https://images.unsplash.com/photo-1536560035542-1326fab3a507?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60">
+            <p>
+                The World Wide Web (abbreviated WWW or the Web) is an information space where documents 
+                and other web resources are identified by Uniform Resource Locators (URLs), interlinked 
+                by hypertext links, and can be accessed via the Internet.[1]</p><p> 
+                English scientist Tim Berners-Lee invented the World Wide Web in 1989.
+                He wrote the first web browser computer program in 1990 while employed at CERN in Switzerland.[2][3]</p><p> 
+                The Web browser was released outside of CERN in 1991, first to other research institutions starting in
+                January 1991 and to the general public on the Internet in August 1991.
